@@ -39,12 +39,12 @@ This project demonstrates how to utilize Android's WorkManager library to perfor
 
 ## Learn More
 
-For a detailed explanation of the implementation, including code snippets and a step-by-step guide, check out the [Medium article](https://medium.com/@maheraizen1/mastering-workmanager-in-android-a-deep-dive-with-photo-compression-example-3b452f16295c). The article dives deep into WorkManager concepts and provides additional insights into handling background tasks effectively.
+For a detailed explanation of the implementation, including code snippets and a step-by-step guide, check out the [Medium article](https://medium.com/@RhoumaMaher/mastering-workmanager-in-android-a-deep-dive-with-photo-compression-example-3b452f16295c). The article dives deep into WorkManager concepts and provides additional insights into handling background tasks effectively.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own projects. Happy coding! If you have any questions or suggestions, feel free to reach out.
 
-* **Medium:** [My Medium Profile](https://medium.com/@maheraizen1)
+* **Medium:** [My Medium Profile](https://medium.com/@RhoumaMaher)
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/maher-rhouma-581919199/).
   
 Let’s connect and discuss all things Android!
